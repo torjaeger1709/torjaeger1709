@@ -1,7 +1,14 @@
-## 🌟 About Me
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nguyễn Đức Khiêm
+=========================================================================================================================================
 
-👋 Hi, I'm **Nguyễn Đức Khiêm**
+Cyber Security
+--------------
 
-🎓 **Education:**
-&nbsp;&nbsp;&nbsp;&nbsp;🎓 **University:** VNU-HCM University of Information Technology  
-&nbsp;&nbsp;&nbsp;&nbsp;🏫 **High School:** VNU-HCM High School for the Gifted
+My Education:
+
+\- University: VNU-HCM University of Information Technology
+
+\- High School: VNU-HCM High School for the Gifted
+
+* 🌍  I'm based in Vietnam
+* ✉️  You can contact me at [24520803@gm.uit.edu.vn](mailto:24520803@gm.uit.edu.vn)
